@@ -12,14 +12,17 @@ technical skills and contribute to innovative engineering research.
 ## EDUCATION
 
 **Bachelor of Technology (B.Tech) – Electrical and Electronics Engineering**
+
 NIST University, Berhampur, Odisha
 September 2023 – Present | CGPA(Till 5th Semester) : 9.81
 
 **Higher Secondary (Class XII) – Science (PCM)**
+
 Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE)
 Passing Year- 2023 | Percentage- 90.4 %
 
 **Secondary (Class X)**
+
 Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE)
 Passing Year-2021 | Percentage- 94 %
 
@@ -98,16 +101,23 @@ interfaces for power and energy analysis.
 
 ## CERTIFICATIONS
 
-1. Data Science Internship – Cognifyz Technologies | Feb 2026 | Hands-on training in exploratory data analysis, machine learning model development, and data visualization using Python, Pandas, NumPy, and Matplotlib on real-world datasets.
+**1. Data Science Internship – Cognifyz Technologies | Feb 2026 **
+- Hands-on training in exploratory data analysis, machine learning model development, and data visualization using Python, Pandas, NumPy, and Matplotlib on real-world datasets.
 
-2. TCS MASTERCRAFT™ DATAPLUS by TCS MasterCraft™ Academy | December 2025 | Overview course on data analysis and processing fundamentals.
+**2. TCS MASTERCRAFT™ DATAPLUS by TCS MasterCraft™ Academy | December 2025 **
+- Overview course on data analysis and processing fundamentals.
    
-3. YUVA AI FOR ALL BY INDIAAI (THROUGH TCS ION)| December 2025 |AI fundamentals course aimed at understanding applications of AI technology.
+**3. YUVA AI FOR ALL BY INDIAAI (THROUGH TCS ION)| December 2025 **
+- AI fundamentals course aimed at understanding applications of AI technology.
    
-4. Very Large Scale Integration at CTTC, Bhubaneswar | July 2025 | Specialized training on Very Large Scale Integration processes.
+**4. Very Large Scale Integration at CTTC, Bhubaneswar | July 2025 **
+- Specialized training on Very Large Scale Integration processes.
   
-5. Electric Vehicle Workshop by Pantech e-learning | April 2025 | Workshop focused on electric vehicle technology and its components.
+**5. Electric Vehicle Workshop by Pantech e-learning | April 2025 **
+- Workshop focused on electric vehicle technology and its components.
    
-6. MATLAB and Its Application in Engineering at NIST University | August 2024 | Course on MATLAB applications in various engineering fields.
+**6. MATLAB and Its Application in Engineering at NIST University | August 2024 **
+- Course on MATLAB applications in various engineering fields.
  
-7. Introduction to Python Programming by CODETECH | February 2024 | Introduction course on Python programming for beginners. 
+**7. Introduction to Python Programming by CODETECH | February 2024 **
+- Introduction course on Python programming for beginners. 
