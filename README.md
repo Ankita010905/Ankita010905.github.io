@@ -1,6 +1,6 @@
-#ELECTRICAL AND ELECTRONICS ENGINEERING
+# ELECTRICAL AND ELECTRONICS ENGINEERING
 
-##CAREER OBJECTIVE
+## CAREER OBJECTIVE
 
 Electrical and Electronics Engineering undergraduate with a strong interest in VLSI design, embedded systems, power
 systems, and IoT applications. Skilled in Verilog HDL, Python, C, MATLAB, and EDA tools, including Xilinx ISE, Microwind,
@@ -9,7 +9,7 @@ of India, National Institute of Science and Technology University, and Cognifyz 
 FPGA design, CMOS layout, data analysis, and IoT-based projects. Seeking a summer research internship to apply my
 technical skills and contribute to innovative engineering research.
 
-##EDUCATION
+## EDUCATION
 
 **Bachelor of Technology (B.Tech) – Electrical and Electronics Engineering**
 NIST University, Berhampur, Odisha
@@ -23,7 +23,7 @@ Passing Year- 2023 | Percentage- 90.4 %
 Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE)
 Passing Year-2021 | Percentage- 94 %
 
-##TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 **Programming:** C, C++, Python, Verilog HDL
 
@@ -37,7 +37,7 @@ Passing Year-2021 | Percentage- 94 %
 
 **Core Concepts:** Digital Design, Control Systems, Signal Processing, CMOS Design
 
-##INTERNSHIPS
+## INTERNSHIPS
 
 **1. Data Science Intern
  Cognifyz Technologies — Remote
@@ -64,7 +64,7 @@ Multiplexer, Decoder, Flip-Flops, and Counters.
 workflows.
 
 
-##PROJECTS
+## PROJECTS
 
 **1.VLSI Design Fundamentals Using DSCH2 & Microwind 3.1| June 2025 – July 2025**
 - Designed and simulated CMOS-based digital circuits, including inverter, NAND, NOR, XOR, transmission gates, and ring
@@ -96,7 +96,7 @@ Implemented IoT-based real-time data transmission via ESP8266 to cloud dashboard
 interfaces for power and energy analysis.
 - Skills: IoT, Embedded Systems, PCB Design, Sensors, Circuit Design, Data Acquisition.
 
-##CERTIFICATIONS
+## CERTIFICATIONS
 
 **1. Data Science Internship – Cognifyz Technologies | Feb 2026** | Hands-on training in exploratory data analysis, machine learning model development, and data visualization using Python, Pandas, NumPy, and Matplotlib on real-world datasets.
 
