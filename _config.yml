@@ -1,5 +1,16 @@
 title: Ankita Kumari Satapathy
-#description: **ELECTRICAL AND ELECTRONICS ENGINEERING STUDENT at NIST UNIVERSITY**
-#show_downloads: true
-linkedin: linkedin.com/in/ankita-kumari-satapathy-583bb932a
-theme: jekyll-theme-time-machine
+description: Electrical and Electronics Engineering Student | VLSI | Power Systems | IoT | MATLAB | C | Python
+
+theme: jekyll-theme-minima
+
+show_downloads: true
+
+# Social Links
+linkedin_username: ankita-kumari-satapathy-583bb932a
+github_username: Ankita010905
+
+# Optional (but good)
+email: ankitasatapathy23@gmail.com
+
+# SEO (optional but professional)
+author: Ankita Kumari Satapathy
