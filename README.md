@@ -13,19 +13,15 @@ technical skills and contribute to innovative engineering research.
 
 **Bachelor of Technology (B.Tech) – Electrical and Electronics Engineering**
 
-NIST University, Berhampur, Odisha
-
-September 2023 – Present | CGPA(Till 5th Semester) : 9.81
+NIST University, Berhampur, Odisha | September 2023 – Present | CGPA(Till 5th Semester) : 9.81
 
 **Higher Secondary (Class XII) – Science (PCM)**
 
-Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE)
-Passing Year- 2023 | Percentage- 90.4 %
+Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE) | Passing Year- 2023 | Percentage- 90.4 %
 
 **Secondary (Class X)**
 
-Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE)
-Passing Year-2021 | Percentage- 94 %
+Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE) | Passing Year-2021 | Percentage- 94 %
 
 ## TECHNICAL SKILLS
 
