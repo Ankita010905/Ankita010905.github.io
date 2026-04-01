@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="" width="100%">
+</p>
 # 👩‍💻 Ankita Kumari Satapathy  
 ### Electrical and Electronics Engineering Student  
 
