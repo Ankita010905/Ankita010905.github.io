@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""https://github.com/Ankita010905/Ankita010905.png width="100%">
+  <img src="https://github.com/Ankita010905/Ankita010905.png" width="100%">
 </p>
 # 👩‍💻 Ankita Kumari Satapathy  
 ### Electrical and Electronics Engineering Student  
