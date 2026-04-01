@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="(https://github.com/Ankita010905/Ankita010905.github.io/blob/main/Lets%20Get%20Started%20To%20New%20World%20Of%20Learning...!!%20(5).png)" width="100%">
-</p>
+
 # 👩‍💻 Ankita Kumari Satapathy  
 ### Electrical and Electronics Engineering Student  
 
@@ -48,7 +46,7 @@ technical skills and contribute to innovation.
 - Built and evaluated machine learning models for restaurant rating prediction.
 - Created data visualizations using Matplotlib to identify trends and extract meaningful insights from data.
 
-**2. Student Intern – VLSI & Digital System Design Central Tool Room & Training Centre (MSME) – Government of India Bhubaneswar, Odisha, June 2025 – July 2025** 
+**2. Student Intern – VLSI & Digital System Design Central Tool Room & Training Centre (MSME) – Government of India, Bhubaneswar, Odisha, June 2025 – July 2025** 
 - Gained hands-on experience in VLSI design flow, from HDL modeling to CMOS layout generation.
 - Designed and simulated digital circuits using Verilog HDL in Xilinx ISE, including Full Adder, Half Adder, Multiplexer, Decoder, Flip-Flops, and Counters.
 - Developed behavioral and structural Verilog models, created testbenches, and analyzed simulation waveforms.
@@ -114,8 +112,9 @@ interfaces for power and energy analysis.
 6. MATLAB and Its Application in Engineering at NIST University | August 2024 
 - Course on MATLAB applications in various engineering fields.
  
-7. Introduction to Python Programming by CODETECH | February 2024 
-- Introduction course on Python programming for beginners. 
+7. Introduction to Python Programming by CODETECH | February 2024
+- Introduction course on Python programming for beginners.
+  
 ---
 
 ## 📫 Contact
