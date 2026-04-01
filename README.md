@@ -14,9 +14,11 @@ technical skills and contribute to innovative engineering research.
 **Bachelor of Technology (B.Tech) – Electrical and Electronics Engineering
 NIST University, Berhampur, Odisha
 September 2023 – Present | CGPA(Till 5th Semester) : 9.81
+
 **Higher Secondary (Class XII) – Science (PCM)
 Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE)
 Passing Year- 2023 | Percentage- 90.4 %
+
 **Secondary (Class X)
 Kendriya Vidyalaya No. 2, AFS Kalaikunda, Kharagpur, West Bengal (CBSE)
 Passing Year-2021 | Percentage- 94 %
@@ -43,6 +45,7 @@ Core Concepts: Digital Design, Control Systems, Signal Processing, CMOS Design
 Performed exploratory data analysis (EDA) on restaurant datasets using Python, Pandas, and NumPy.
 Built and evaluated machine learning models for restaurant rating prediction.
 Created data visualizations using Matplotlib to identify trends and extract meaningful insights from data.
+
 **2. Student Intern – VLSI & Digital System Design
  Central Tool Room & Training Centre (MSME) – Government of India
  Bhubaneswar, Odisha
@@ -51,6 +54,7 @@ Gained hands-on experience in VLSI design flow, from HDL modeling to CMOS layout
 Designed and simulated digital circuits using Verilog HDL in Xilinx ISE, including Full Adder, Half Adder,
 Multiplexer, Decoder, Flip-Flops, and Counters.
 Developed behavioral and structural Verilog models, created testbenches, and analyzed simulation waveforms.
+
 **3. Student Intern – MATLAB & Engineering Applications
  NIST University, Berhampur, Odisha
  July 2024 – August 2024
@@ -67,21 +71,25 @@ Designed and simulated CMOS-based digital circuits, including inverter, NAND, NO
 oscillator using DSCH2 and Microwind 3.1. Performed schematic-level design, layout creation, and functional verification
 following CMOS design rules.
 Skills: VLSI Design, CMOS Logic, DSCH2, Microwind 3.1, Layout Design, Digital Electronics
+
 **2. Digital System Design Using VHDL and Verilog (Xilinx ISE & Intel Quartus) | June 2025 – July 2025
 Designed and implemented digital circuits, including a full adder, multiplexer, shift register, barrel shifter, Johnson counter,
 up/down synchronous counter, and tri-state inverter. Verified designs using testbenches, RTL analysis, and simulation
 waveforms.
 Skills: VHDL, Verilog HDL, Xilinx ISE, Intel Quartus, FPGA Basics, Digital Electronics
+
 **3.MATLAB-Based Engineering Analysis & Simulation | July 2024 – August 2024
 Developed MATLAB and Simulink models for control system analysis, signal processing, data visualization, and numerical
 problem solving. Created interactive MATLAB applications, including Snake Game, Dice Game, and Memory Match Game.
 Performed plotting, image processing, and simulations to validate theoretical concepts.
 Skills: MATLAB, Simulink, GUI Development, Control Systems, Signal & Image Processing, Data Analysis.
+
 **4. Performance of BLDC Motor using different controllers | December 2025 – Present
 Developed a MATLAB/Simulink model of a BLDC-driven electric vehicle with closed-loop speed control using PI, Fuzzy-PI,
 and ANN-based adaptive controllers. Evaluated system performance under varying load conditions and analyzed speed
 response, efficiency, and driving range.
 Skills: MATLAB, Simulink, Electric Vehicle Simulation, Control Systems, Signal Processing
+
 **5.Monitoring The Wind Turbine System (Hardware + IoT) | December 2025 – Present
 Designed a hardware-based wind turbine monitoring system using sensors, microcontrollers, and a custom PCB.
 Implemented IoT-based real-time data transmission via ESP8266 to cloud dashboards using ThingSpeak, Blynk, and web
