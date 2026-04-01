@@ -14,6 +14,7 @@ technical skills and contribute to innovative engineering research.
 **Bachelor of Technology (B.Tech) – Electrical and Electronics Engineering**
 
 NIST University, Berhampur, Odisha
+
 September 2023 – Present | CGPA(Till 5th Semester) : 9.81
 
 **Higher Secondary (Class XII) – Science (PCM)**
