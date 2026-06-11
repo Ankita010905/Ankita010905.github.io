@@ -7,8 +7,9 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Electrical and Electronics Engineering at NIST University, Berhampur
-🔬 Research Intern under the SURE Program at **IIT Hyderabad**
+🎓 I am an Electrical and Electronics Engineering undergraduate at NIST University with the passion for solving real-world engineering challenges through research, innovation, and technology.
+
+Currently, I am working as a Research Intern at IIT Hyderabad under the SURE Program, where I focus on renewable energy integration, DFIG-based wind energy systems, and PLL-based grid synchronization using MATLAB/Simulink.
 
 ⚡ Interested in:
 - Renewable Energy Systems
