@@ -1,126 +1,265 @@
+# 👋 Hi, I'm Ankita Kumari Satapathy
 
-# 👩‍💻 Ankita Kumari Satapathy  
-### Electrical and Electronics Engineering Student  
+### Electrical and Electronics Engineering Undergraduate | Research Intern @ IIT Hyderabad
+
+<img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/your-image-link">
 
 ---
 
-## 🚀 Career Objective
-Electrical and Electronics Engineering undergraduate with a strong interest in VLSI design, embedded systems, power
-systems, and IoT applications. Skilled in Verilog HDL, Python, C, MATLAB, and EDA tools, including Xilinx ISE, Microwind,
-DSCH2, Quartus, ETAP, and LabVIEW. Completed internships at Central Tool Room & Training Centre (MSME), Government
-of India, National Institute of Science and Technology University, and Cognifyz Technologies, with hands-on experience in
-FPGA design, CMOS layout, data analysis, and IoT-based projects. Seeking an internship to apply my
-technical skills and contribute to innovation.
+## 🚀 About Me
+
+🎓 B.Tech in Electrical and Electronics Engineering at NIST University, Berhampur
+🔬 Research Intern under the SURE Program at **IIT Hyderabad**
+
+⚡ Interested in:
+- Renewable Energy Systems
+- Power Systems & Smart Grids
+- Power Electronics
+- Control Systems
+- Embedded Systems & IoT
+- VLSI Design
+- MATLAB/Simulink Modeling
+
+💡 Passionate about solving real-world engineering problems through research, simulation, hardware development, and innovative technologies.
 
 ---
 
 ## 🎓 Education
-**B.Tech – Electrical and Electronics Engineering**  
-📍 NIST University, Berhampur  
-📅 2023 – Present  
-⭐ CGPA: **9.81**
 
-**Class XII – CBSE (PCM)**  
-📍 Kendriya Vidyalaya, Kharagpur  
-📅 2023 | **90.4%**
-
-**Class X – CBSE**  
-📍 Kendriya Vidyalaya, Kharagpur  
-📅 2021 | **94%**
+| Qualification | Institution | Year | Score |
+|--------------|------------|------|--------|
+| B.Tech (EEE) | NIST University, Berhampur | 2023 – Present | CGPA: 9.81 |
+| Class XII (CBSE) | KV No.2, AFS Kalaikunda | 2023 | 90.4% |
+| Class X (CBSE) | KV No.2, AFS Kalaikunda | 2021 | 94% |
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming:** C, C++, Python, Verilog HDL  
-- **VLSI Tools:** Xilinx ISE, Microwind, DSCH2, Quartus  
-- **Simulation:** MATLAB, Simulink, ETAP, LabVIEW  
-- **Embedded Systems:** Arduino, ESP8266, ESP32  
-- **Core Areas:** Digital Design, Control Systems, Signal Processing  
+# 🔬 Research Experience
+
+## Student Research Intern – SURE Program
+### Indian Institute of Technology Hyderabad (IIT Hyderabad)
+**May 2026 – Present**
+
+- Researching renewable energy integration and grid-connected wind energy systems.
+- Developing MATLAB/Simulink models of DFIG-based wind turbines.
+- Designing PLL-based grid synchronization techniques for phase and frequency estimation.
+- Performing simulation studies related to system stability, power quality, and renewable energy integration.
 
 ---
 
-## 💼 Internships
+# 💼 Internship Experience
 
-**1. Data Science Intern Cognifyz Technologies — Remote Jan 2026 – Feb 2026**
-- Performed exploratory data analysis (EDA) on restaurant datasets using Python, Pandas, and NumPy.
-- Built and evaluated machine learning models for restaurant rating prediction.
-- Created data visualizations using Matplotlib to identify trends and extract meaningful insights from data.
+## Student Intern – VLSI & Digital System Design
+### Central Tool Room & Training Centre (MSME), Government of India
+📍 Bhubaneswar, Odisha
 
-**2. Student Intern – VLSI & Digital System Design Central Tool Room & Training Centre (MSME) – Government of India, Bhubaneswar, Odisha, June 2025 – July 2025** 
-- Gained hands-on experience in VLSI design flow, from HDL modeling to CMOS layout generation.
-- Designed and simulated digital circuits using Verilog HDL in Xilinx ISE, including Full Adder, Half Adder, Multiplexer, Decoder, Flip-Flops, and Counters.
-- Developed behavioral and structural Verilog models, created testbenches, and analyzed simulation waveforms.
+**June 2025 – July 2025**
 
-**3. Student Intern – MATLAB & Engineering Applications NIST University, Berhampur, Odisha July 2024 – August 2024** 
-- Implemented MATLAB GUI components and event-handling logic for real-time user interaction.
-- Conducted data analysis and visualization, generating plots, graphs, and statistical summaries from datasets. - Enhanced practical skills in MATLAB programming, signal processing, image processing, and simulation workflows.
- 
----
-
-## 🚀 Projects
-
-**1.VLSI Design Fundamentals Using DSCH2 & Microwind 3.1| June 2025 – July 2025**
-- Designed and simulated CMOS-based digital circuits, including inverter, NAND, NOR, XOR, transmission gates, and ring
-oscillator using DSCH2 and Microwind 3.1. Performed schematic-level design, layout creation, and functional verification
-following CMOS design rules.
-- Skills: VLSI Design, CMOS Logic, DSCH2, Microwind 3.1, Layout Design, Digital Electronics
-
-**2. Digital System Design Using VHDL and Verilog (Xilinx ISE & Intel Quartus) | June 2025 – July 2025**
-- Designed and implemented digital circuits, including a full adder, multiplexer, shift register, barrel shifter, Johnson counter,
-up/down synchronous counter, and tri-state inverter. Verified designs using testbenches, RTL analysis, and simulation
-waveforms.
-- Skills: VHDL, Verilog HDL, Xilinx ISE, Intel Quartus, FPGA Basics, Digital Electronics
-
-**3.MATLAB-Based Engineering Analysis & Simulation | July 2024 – August 2024**
-- Developed MATLAB and Simulink models for control system analysis, signal processing, data visualization, and numerical
-problem solving. Created interactive MATLAB applications, including Snake Game, Dice Game, and Memory Match Game.
-Performed plotting, image processing, and simulations to validate theoretical concepts.
-- Skills: MATLAB, Simulink, GUI Development, Control Systems, Signal & Image Processing, Data Analysis.
-
-**4. Performance of BLDC Motor using different controllers | December 2025 – Present**
-- Developed a MATLAB/Simulink model of a BLDC-driven electric vehicle with closed-loop speed control using PI, Fuzzy-PI,
-and ANN-based adaptive controllers. Evaluated system performance under varying load conditions and analyzed speed
-response, efficiency, and driving range.
-- Skills: MATLAB, Simulink, Electric Vehicle Simulation, Control Systems, Signal Processing
-
-**5.Monitoring The Wind Turbine System (Hardware + IoT) | December 2025 – Present**
-- Designed a hardware-based wind turbine monitoring system using sensors, microcontrollers, and a custom PCB.
-Implemented IoT-based real-time data transmission via ESP8266 to cloud dashboards using ThingSpeak, Blynk, and web
-interfaces for power and energy analysis.
-- Skills: IoT, Embedded Systems, PCB Design, Sensors, Circuit Design, Data Acquisition.
-
+- Gained hands-on experience in VLSI design flow from HDL modeling to CMOS layout generation.
+- Designed and simulated digital circuits using Verilog HDL in Xilinx ISE.
+- Developed testbenches and analyzed simulation waveforms.
+- Worked on CMOS layout design and digital system implementation.
 
 ---
 
-## 📜 Certifications
+## Student Intern – MATLAB & Engineering Applications
+### NIST University, Berhampur
 
-1. Data Science Internship – Cognifyz Technologies | Feb 2026 
-- Hands-on training in exploratory data analysis, machine learning model development, and data visualization using Python, Pandas, NumPy, and Matplotlib on real-world datasets.
+**July 2024 – August 2024**
 
-2. TCS MASTERCRAFT™ DATAPLUS by TCS MasterCraft™ Academy | December 2025 
-- Overview course on data analysis and processing fundamentals.
-   
-3. YUVA AI FOR ALL BY INDIAAI (THROUGH TCS ION)| December 2025 
-- AI fundamentals course aimed at understanding applications of AI technology.
-   
-4. Very Large Scale Integration at CTTC, Bhubaneswar | July 2025 
-- Specialized training on Very Large Scale Integration processes.
-  
-5. Electric Vehicle Workshop by Pantech e-learning | April 2025 
-- Workshop focused on electric vehicle technology and its components.
-   
-6. MATLAB and Its Application in Engineering at NIST University | August 2024 
-- Course on MATLAB applications in various engineering fields.
- 
-7. Introduction to Python Programming by CODETECH | February 2024
-- Introduction course on Python programming for beginners.
-  
----
-
-## 📫 Contact
-🔗 LinkedIn: https://linkedin.com/in/ankita-kumari-satapathy  
-📧 Email: ankitasatapathy23@gmail.com  
+- Implemented MATLAB GUI applications.
+- Performed data analysis and visualization.
+- Worked on signal processing, image processing, and engineering simulations.
 
 ---
 
-⭐ *Open to internships, research opportunities, and collaborations*
+# 🛠 Technical Skills
+
+## Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge)
+
+---
+
+## VLSI & EDA Tools
+
+- Xilinx ISE
+- Intel Quartus
+- DSCH2
+- Microwind 3.1
+
+---
+
+## Simulation & Analysis Tools
+
+- MATLAB
+- Simulink
+- ETAP
+- LabVIEW
+
+---
+
+## Embedded Systems
+
+- Arduino
+- ESP32
+- ESP8266
+- Sensors
+- FPGA Basics
+
+---
+
+## Database Technologies
+
+- MySQL
+- DBMS
+
+---
+
+## Core Areas
+
+- Renewable Energy Integration
+- Power Systems
+- Smart Grids
+- Digital Design
+- CMOS Design
+- Control Systems
+- Signal Processing
+
+---
+
+# 🚀 Projects
+
+## 🌬️ Monitoring The Wind Turbine System (Hardware + IoT)
+
+**December 2025 – Present**
+
+- Designed a hardware-based wind turbine monitoring system.
+- Developed a custom PCB and sensor acquisition system.
+- Implemented IoT-based monitoring using ESP8266.
+- Integrated ThingSpeak, Blynk, and web dashboards for real-time visualization.
+
+**Skills:** IoT, Embedded Systems, PCB Design, Sensors, Circuit Design, Data Acquisition
+
+---
+
+## 🚗 Integrating, Modelling and Control of a BLDC Motor Driven Electric Vehicle
+
+**December 2025 – Present**
+
+- Developed a MATLAB/Simulink model of a BLDC-driven electric vehicle.
+- Implemented PI, Fuzzy-PI, and ANN-based controllers.
+- Compared controller performance under varying operating conditions.
+
+**Skills:** MATLAB, Simulink, Electric Vehicle Simulation, Control Systems
+
+---
+
+## 💻 VLSI Design Fundamentals Using DSCH2 & Microwind 3.1
+
+**June 2025 – July 2025**
+
+- Designed CMOS-based digital circuits including:
+  - Inverter
+  - NAND Gate
+  - NOR Gate
+  - XOR Gate
+  - Transmission Gates
+  - Ring Oscillator
+
+- Performed schematic design, layout generation, and functional verification.
+
+**Skills:** CMOS Logic, VLSI Design, DSCH2, Microwind
+
+---
+
+## 🔧 Digital System Design Using VHDL and Verilog
+
+**June 2025 – July 2025**
+
+Designed and simulated:
+
+- Full Adder
+- Multiplexer
+- Shift Register
+- Barrel Shifter
+- Johnson Counter
+- Up/Down Counter
+- Tri-State Inverter
+
+**Skills:** VHDL, Verilog HDL, FPGA Basics, Quartus, Xilinx ISE
+
+---
+
+## 📊 MATLAB-Based Engineering Analysis & Simulation
+
+**July 2024 – August 2024**
+
+Developed:
+
+- Snake Game
+- Dice Game
+- Memory Match Game
+
+Worked on:
+
+- Control System Analysis
+- Signal Processing
+- Image Processing
+- Data Visualization
+- Numerical Computation
+
+**Skills:** MATLAB, Simulink, GUI Development, Data Analysis
+
+---
+
+# 📜 Certifications
+
+🏅 NPTEL Smart Grid: Basics to Advanced Technologies (Elite + Silver)
+
+🏅 YUVA AI For All by IndiaAI (through TCS iON)
+
+🏅 Very Large Scale Integration – CTTC, Bhubaneswar
+
+🏅 Electric Vehicle Workshop – Pantech e-Learning
+
+🏅 MATLAB and Its Application in Engineering – NIST University
+
+🏅 Introduction to Python Programming – CODETECH
+
+---
+
+# 🏆 Achievements
+
+- Selected for the Summer Undergraduate Research Exposure (SURE) Program at IIT Hyderabad (2026).
+- Maintaining a CGPA of **9.81** in B.Tech Electrical and Electronics Engineering.
+- Earned NPTEL Elite + Silver Certification in Smart Grid: Basics to Advanced Technologies.
+- Successfully completed VLSI & Digital System Design Training at CTTC (MSME), Government of India.
+
+---
+
+# 🌍 Languages
+
+- English
+- Hindi
+- Odia
+
+---
+
+# 📈 GitHub Stats
+
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: ankitasatapathy23@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/ankita-kumari-satapathy
+
+⭐ Open to Research Internships, Academic Collaborations, Renewable Energy Research, Power Systems, Embedded Systems, IoT, and VLSI Design.
