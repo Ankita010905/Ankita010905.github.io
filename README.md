@@ -149,11 +149,11 @@ Currently, I am working as a Research Intern at IIT Hyderabad under the SURE Pro
 
 **December 2025 – Present**
 
-- Developed a MATLAB/Simulink model of a BLDC-driven electric vehicle.
+- Developed a MATLAB/Simulink model of a BLDC-Motor.
 - Implemented PI, Fuzzy-PI, and ANN-based controllers.
 - Compared controller performance under varying operating conditions.
 
-**Skills:** MATLAB, Simulink, Electric Vehicle Simulation, Control Systems
+**Skills:** MATLAB, Simulink, Controllers, Control Systems
 
 ---
 
