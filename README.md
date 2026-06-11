@@ -145,7 +145,7 @@
 
 ---
 
-## 🚗 Integrating, Modelling and Control of a BLDC Motor Driven Electric Vehicle
+## 🚗 Performance of BLDC Motor using Different Controllers
 
 **December 2025 – Present**
 
