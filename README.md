@@ -2,7 +2,6 @@
 
 ### Electrical and Electronics Engineering Undergraduate | Research Intern @ IIT Hyderabad
 
-<img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/your-image-link">
 
 ---
 
@@ -250,16 +249,18 @@ Worked on:
 
 # 📈 GitHub Stats
 
-![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankita010905&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita010905&layout=compact)
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: ankitasatapathy23@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Kumari%20Satapathy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankita-kumari-satapathy-583bb932a/)
 
-💼 LinkedIn: www.linkedin.com/in/ankita-kumari-satapathy
+[![GitHub](https://img.shields.io/badge/GitHub-Ankita010905-black?style=for-the-badge&logo=github)](https://github.com/Ankita010905)
 
-⭐ Open to Research Internships, Academic Collaborations, Renewable Energy Research, Power Systems, Embedded Systems, IoT, and VLSI Design.
+[![Email](https://img.shields.io/badge/Email-ankitasatapathy23%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ankitasatapathy23@gmail.com)
+
+⭐ Open to Research Internships, Jobs, Academic Collaborations, Renewable Energy Research, Power Systems, Embedded Systems, IoT, and VLSI Design.
